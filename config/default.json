@@ -1,0 +1,9 @@
+{
+    "app": {
+        "http_port": 3000,
+        "https_port": 3001,
+        "http_workers": 4,
+        "version": "dev",
+        "environment": "dev"
+    }
+}
